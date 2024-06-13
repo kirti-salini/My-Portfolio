@@ -1,7 +1,5 @@
 # Bootstrap-Portfolio-Website
 
-[<img alt="Bootstrap-Portfolio-Website" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/bootstrap%20portfolio%20website%20tech2etc.png?raw=true" />](https://youtu.be/kltvOVOEmM0)
-
 ## How to create a portfolio website using HTML CSS Bootstrap?
 To create a website using HTML, CSS, and Bootstrap, you can follow these steps:
 
@@ -37,10 +35,8 @@ Overall, using Bootstrap can be a helpful way to create an e-commerce website by
 ## Project Sections
 - Home
 - About
-- Service
+- Tech-Stacks
+- Projects
 - Contact
 - Footer
 
-Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
-
-Get the full source code from [here1](https://www.patreon.com/posts/46866516).
